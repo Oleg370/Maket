@@ -1,0 +1,27 @@
+body {
+    font-family: sans-serif;
+}
+
+nav a{
+    text-decoration: none;
+    font-size: 20px;
+    background: #C4C4C4;
+    margin:133px 0px 720px 19px;
+}
+
+.special_link {color:red;
+
+}
+
+
+
+font {
+    background-color: ;
+    padding: 5px;
+}
+
+footer p {
+    font-size: 20px;
+}
+header{background: #C4C4C4;}
+footer{background: #C4C4C4;}
